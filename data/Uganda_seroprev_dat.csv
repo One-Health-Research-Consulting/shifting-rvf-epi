@@ -1,0 +1,8 @@
+﻿Category,Cattle corridor,District,District_sh,ALL_LIVESTOCK ,NO_POSITIVE,OVERALL_PREV,Cattle sampled,Cattle pos,Cattle_Prevalence,Goats sampled,Goats pos,Goat_Prevalence,Sheep sampled,Sheep pos,Sheep_Prevalence,,
+Endemic,No,BUTALEJA,BLJ,56,18,32,28,17,61,28,1,4,0,0,0,Standard Deviation,18.99358866
+Endemic,Yes,Butebo,BTB,44,29,66,28,25,89,16,4,25,0,0,0,Sample Variance,360.7564103
+Endemic,Yes,BUDAKA,BDK,37,19,51,15,10,67,22,9,41,0,0,0,Minimum,4
+Epidemic,No,Kabale,KLE,56,4,7,28,3,11,22,1,5,6,0,63,,
+Epidemic,No,Mityana,MIT,56,12,21,28,9,32,21,2,10,7,1,0,,
+Endemic,No,SIRONKO,SIR,56,2,4,28,2,7,28,0,0,0,0,0,,
+Endemic,No,LUUKA,LKA,51,5,10,27,2,7,24,3,13,0,0,0,,
